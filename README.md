@@ -1,5 +1,12 @@
-# Getting Started with Create React App
+Name - Tyler Nguyen
+Date - 03-11-2024
+Lab Name - Jobs That Interest You
+Peer Reviewer -
+Peer Review - 
 
+
+# Getting Started with Create React App
+### `npm install`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
