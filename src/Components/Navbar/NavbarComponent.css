@@ -1,0 +1,8 @@
+.navBarColor{
+    background-color: white;
+}
+
+.sticknav{
+    position: sticky;
+    top: 0;
+}
