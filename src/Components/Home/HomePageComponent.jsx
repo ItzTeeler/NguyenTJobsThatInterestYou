@@ -6,7 +6,8 @@ import Nvidia from '../Assets/nvidiasign.jpeg'
 import Button from 'react-bootstrap/Button';
 import Unity from '../Assets/unitysign.jpg';
 import Intel from '../Assets/intelsign.jpg';
-import Tesla from '../Assets/teslasign.jpeg'
+import Tesla from '../Assets/teslasign.jpeg';
+import Wave from '../Assets/wave.svg';
 import { useNavigate } from 'react-router-dom'
 
 const HomePageComponent = () => {
@@ -31,6 +32,7 @@ const HomePageComponent = () => {
 
     return (
         <div className='bodyBg'>
+            <img src={Wave}/>
             <Container>
             <Row>
                 <Col>
