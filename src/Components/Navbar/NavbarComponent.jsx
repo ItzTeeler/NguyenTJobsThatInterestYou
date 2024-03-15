@@ -10,7 +10,7 @@ function NavbarComponent() {
   return (
     <Navbar expand="lg" className="navBarColor fixed-top">
       <Container>
-        <Navbar.Brand href="#home" className='navText'>Jobs that Interest Me!</Navbar.Brand>
+        <Navbar.Brand as={Link} to='/' className='navText'>Jobs that Interest Me!</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto navText">
