@@ -1,8 +1,8 @@
 Name - Tyler Nguyen
 Date - 03-11-2024
 Lab Name - Jobs That Interest You
-Peer Reviewer -
-Peer Review - 
+Peer Reviewer - Zachary Dressel
+Peer Review - Website looks and works phenominally, save for one piece that is easily fixed and is just preference on my part. The only issue that I can see is that the spacing on the home page is a little bunched together and I feel would look better if it was gived some margins. Other than that, phenominal!
 
 
 # Getting Started with Create React App
