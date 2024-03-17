@@ -1,6 +1,7 @@
 Name - Tyler Nguyen
 Date - 03-11-2024
 Lab Name - Jobs That Interest You
+Description - This is a one page web application using BrowserRouter. This application inclued 5 dream places I would like to work at in the future, job description, requirements, and why I would like to work there.
 Peer Reviewer - Zachary Dressel
 Peer Review - Website looks and works phenominally, save for one piece that is easily fixed and is just preference on my part. The only issue that I can see is that the spacing on the home page is a little bunched together and I feel would look better if it was gived some margins. Other than that, phenominal!
 
